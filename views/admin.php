@@ -1,4 +1,3 @@
-
 <select name="" id="stateselect">
     <option value="open">Em Aberto</option>
     <option value="concluded">Concluidos</option>
